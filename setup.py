@@ -1,5 +1,4 @@
 import setuptools
-from pip._internal.req import parse_requirements
 
 __version__ = '0.0.1'
 
